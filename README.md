@@ -38,7 +38,7 @@ Before the client can join the domain, it is important to configure the DNS sett
 
 <p>
 <img src="https://i.imgur.com/HWRZL6c.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/N0Mnfoq.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://i.imgur.com/kAn9jQi.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/DkPUJNR.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
